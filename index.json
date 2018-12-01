@@ -1,0 +1,32 @@
+{
+  "name": "shuji-koike",
+  "yob": 1986,
+  "accept-language": "ja-JP,en-US;q=0.5",
+  "job": "software engineer",
+  "skills": {
+    "devops": true,
+    "programing-language": [
+      "javascript",
+      "scala",
+      "ruby"
+    ],
+    "database": [
+      "mysql",
+      "redis",
+      "mongodb",
+      "redshift"
+    ],
+    "other": [
+      "git",
+      "docker",
+      "circleci",
+      "aws",
+      "gcp"
+    ],
+    "filed": [
+      "ad-tech",
+      "e-commerce",
+      "e-learning"
+    ]
+  }
+}
