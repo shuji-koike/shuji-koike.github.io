@@ -14,7 +14,8 @@
       "mysql",
       "redis",
       "mongodb",
-      "redshift"
+      "redshift",
+      "bigquery"
     ],
     "other": [
       "git",
